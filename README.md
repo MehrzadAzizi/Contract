@@ -1,2 +1,2 @@
 # Contract
-Contract For Text Net In Remix
+Contract For Text Net In Remix...
